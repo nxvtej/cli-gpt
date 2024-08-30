@@ -1,0 +1,21 @@
+{
+  "name": "chatgpt_chat_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "bin": {
+    "ChatGPT": "./app.js"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "openai": "^4.14.2"
+  }
+}
