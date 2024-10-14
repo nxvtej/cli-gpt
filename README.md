@@ -11,7 +11,7 @@ This CLI application allows you to have a conversation with the GPT-3.5 Turbo mo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BishoySedra/ChatGPT_Chat_CLI
+   git clone https://github.com/nxvtej/cli-gpt
    ```
 
 2. Navigate to the project directory:
